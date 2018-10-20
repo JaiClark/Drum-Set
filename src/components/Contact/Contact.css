@@ -1,0 +1,18 @@
+.container1 {
+    margin-left: 0px;
+    margin-right: 20%;
+}
+
+button {
+    margin-left: 3%;
+}
+
+p, h2 {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.graph {
+    font-family: trebuchet ;
+    font-size: 25px;
+}
