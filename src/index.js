@@ -4,6 +4,9 @@ import { render } from 'react-dom'
 import { BrowserRouter } from 'react-router-dom'
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+// import 'spectre.css/dist/spectre.min.css';
+// import 'spectre.css/dist/spectre-icons.css';
+// import './index.css';
 
 render((
     <BrowserRouter>

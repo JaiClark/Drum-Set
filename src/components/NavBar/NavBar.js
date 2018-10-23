@@ -17,9 +17,7 @@ class NavBar extends React.PureComponent {
 
   <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
     <ul class="navbar-nav">
-       <li class="nav-item active justify-content-end">
-       <Link to="./signup"><a class="nav-link">Sign In</a></Link>
-      </li> 
+       
       <li class="nav-item active">
       <Link to="/"><a class="nav-link"> Home </a></Link>
       </li>
@@ -35,6 +33,9 @@ class NavBar extends React.PureComponent {
       <li class="nav-item active">
         <Link to='./contact'><a class="nav-link">Contact</a></Link>
       </li>
+      <li class="nav-item active justify-content-end">
+       <Link to="./signup"><a class="nav-link">Login</a></Link>
+      </li> 
     </ul>
   </div>
 </nav>

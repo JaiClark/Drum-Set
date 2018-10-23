@@ -3,6 +3,7 @@ import { Grid } from 'react-bootstrap';
 import '../components/Shop/Shop.css';
 import NavBar from '../components/NavBar';
 import SubTotal from '../components/SubTotal';
+// import SignUp from '../components/SignUp';
 import EstimatedTotal from '../components/EstimatedTotal';
 import ItemDetails from '../components/ItemDetails';
 import '../components/ItemDetails/ItemDetails.css';
